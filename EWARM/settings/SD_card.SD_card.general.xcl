@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\arm\bin\armstlink2.dll" 
+
+"H:\program\test_SD\SD_card\EWARM\SD_card\Exe\SD_card.out" 
+
+--plugin "C:\Program Files (x86)\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "C:\Program Files (x86)\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+
